@@ -6,6 +6,7 @@ Este sistema demonstra conceitos de Programação Orientada a Objetos e Java. Al
 ### Para rodar o sistema:
 * Ter instalado o Java Runtime Environment (JRE)
 * Ter instalado o [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#jdk21-linux)https://www.oracle.com/java/technologies/downloads/#jdk21-linux
+* Ter instalado um IDE, eu escolhi o [Eclipse](https://www.eclipse.org/downloads/)
 
 ---
 ### Funcionalidades obrigatórias
