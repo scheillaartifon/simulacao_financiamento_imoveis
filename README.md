@@ -13,13 +13,13 @@ Este sistema demonstra conceitos de Programação Orientada a Objetos e Java. Al
 À medida em que avançarmos na disciplina daremos mais detalhes de cada um dos itens. Fique sempre à vontade para tirar as suas dúvidas pelo Fale com a Gente, ou nos demais meios de comunicação.
 
 1. O sistema usará conceitos de Programação Orientada a Objetos como, por exemplo:
-* Classes
-* Objetos
-* Métodos
-* Atributos
-* Polimorfismo
-* Heranças
-* Classes abstratas
+  * Classes
+  * Objetos
+  * Métodos
+  * Atributos
+  * Polimorfismo
+  * Heranças
+  * Classes abstratas
 
 2. O sistema será desenvolvido em Java. Outras linguagens de programação não são permitidas.
 
